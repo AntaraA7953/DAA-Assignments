@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <limits.h>
-#include<stdlib.h>
+#include<stdlib.h> 
 
 // Recursive function to find min and max
 void findMinMax(int arr[], int low, int high, int *min, int *max) {

@@ -5,14 +5,14 @@ void merge(int A[], int l,int m, int h)
     int n1=m-1+1;
     int n2=h-m;
     int *x=(int *)malloc(n1*sizeof(int));
-    int *y=(int *)malloc(n2*sizeof(int));
+    int *y=(int *)malloc(n2*sizeof(int)); 
     for(int i=0;i<n1;i++)
     x[i]=A[l+i];
     for(int i=0;i<n2;i++)
     y[i]=A[m+1+i];
     int i=0,j=0,k=l;
-    while(i!=n1 && j!=n2)
-    {
+    while(i!=n1 && j!=n2) 
+    { 
         if(x[i]<y[j])
         {
             A[k]=x[i];
@@ -63,7 +63,7 @@ int main()
 
 }
 printf("\nUnSorted array is: ");
-for(int i=0;i<n;i++)
+for(int i=0;i<n;i++) 
     {
         printf("%d ",A[i]);
     }

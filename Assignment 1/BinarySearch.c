@@ -3,7 +3,7 @@
 void BinarySearch(int * A,int l , int u,int k)
 { if(l>u)
     {
-    printf("Element not found!");
+    printf("Element not found!");      
     return;
     }
     int m=(l+u)/2;

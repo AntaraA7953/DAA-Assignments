@@ -24,7 +24,7 @@ void partition(int A[],int l,int h)
     return;
     int p=findpivot(A,l,h);
     partition(A,l,p-1);
-    partition(A,p+1,h);
+    partition(A,p+1,h);     
 
 
 }
