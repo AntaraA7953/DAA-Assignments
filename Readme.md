@@ -22,7 +22,6 @@ Each program follows the official structure and methodology outlined in the DAA 
 ### 🔢 Assignment 1: Divide and Conquer
 - [Binary Search](Assignment%201/BinarySearch.c)
 - [Linear Search](Assignment%201/LinearSearch.c)
-- [Maximum and Minimum](Assignment%201/MaxMin.c)
 - [Merge Sort](Assignment%201/MergeSort.c)
 - [Quick Sort](Assignment%201/QuickSort.c)
 
