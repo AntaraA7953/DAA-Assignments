@@ -31,7 +31,7 @@ Each program follows the official structure and methodology outlined in the DAA 
 - [Job Sequencing with Deadlines](Assignment%205/Job_Sequencing.c)
 
 ### 🔢 Assignment 6: Backtracking
-- [Hamiltonian Cycle](Assignment%206/Hamiltonian_C.c)
+- [Hamiltonian Cycle](Assignment%206/Hamiltonian_Cycle.c)
 - [N-Queens Problem](Assignment%206/N_Queen.c)
 
 ### 🔢 Assignment 7: Backtracking + Branch & Bound
