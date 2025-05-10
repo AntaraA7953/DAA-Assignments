@@ -26,6 +26,19 @@ Each program follows the official structure and methodology outlined in the DAA 
 - [Merge Sort](Assignment%201/MergeSort.c)
 - [Quick Sort](Assignment%201/QuickSort.c)
 
+### 🔢 Assignment 2: Divide and Conquer+Dynamic Programming
+- [Chain Matrix MUltiplication](Assignment%205/ChainMatric_Mul.c)
+- [Maximun Minimum Algorithm](Assignment%205/MaxMin.c)
+
+### 🔢 Assignment 3: Dynamic Programming
+- [Floyed Warshall Algorithm](Assignment%205/Floyed_Warshall.c)
+- [Travelling Salesman Problem](Assignment%205/Travelling_Salesman.c)
+
+### 🔢 Assignment 4: Dynamic Programming
+- [Dijkstra's Algorithm](Assignment%205/Dijkstra_Algo.c)
+- [Bellman Ford Algorithm](Assignment%205/BellmanFord.c)
+
+
 ### 🔢 Assignment 5: Greedy Methods
 - [Fractional Knapsack Problem](Assignment%205/FractionalKnapsack.c)
 - [Job Sequencing with Deadlines](Assignment%205/Job_Sequencing.c)
